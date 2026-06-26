@@ -38,10 +38,6 @@ The dashboard includes:
 * Line Chart
 * Region Slicer
 
-## 📸 Dashboard Preview
-
-*Add a screenshot of the dashboard here.*
-
 ## 👨‍💻 Author
 
 **Naveen Nagaraddi**
